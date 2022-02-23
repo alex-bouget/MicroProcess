@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: micro-process
+Version: 1.0
+Summary: modules for create a python sub-process
+Home-page: https://github.com/MisterMine01/MicroProcess
+Author: MisterMine01
+License: UNKNOWN
+Keywords: sub-process,execution
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# MicroProcess
+modules for create a python sub-process
+
+
